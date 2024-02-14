@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar GitHub di Dicoding itu menyenangkan!
+Kita akan mempraktekkan squash dan merge di Dicoding bersama mentor penuliscode
